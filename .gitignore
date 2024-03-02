@@ -1,0 +1,14 @@
+*.m~
+*.asv
+*.slxc
+*slprj/*
+*.mat
+*.avi
+*.mp4
+*.png
+*.jpg
+*.eps
+*Dateien_Projektwettbewerb/*
+*GPRegression/*
+
+simresults/
